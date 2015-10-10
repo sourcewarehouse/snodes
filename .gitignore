@@ -1,0 +1,6 @@
+.DS_Store
+build
+Snodes.jar
+snodes.log
+test/fs/data
+test/**/*.class
